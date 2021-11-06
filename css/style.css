@@ -1,0 +1,20 @@
+root {
+  --main-title-color: #ffffff;
+  --second-title-color: #212121;
+  --third-title-color: #212121;
+  --first-text-color: #757575;
+  --phone-text-color: rgba (0, 0, 0, 0.6);
+  --adress-text-color: #ffffff;
+  --accent-color: #2196f3;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.list {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+}
